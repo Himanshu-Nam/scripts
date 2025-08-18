@@ -2,7 +2,7 @@
 <<help
 This is backup scripts to save scripts folder to S3
 help
-
+#added comments
 src=$1
 des=$2
 timedate=$(date '+%Y-%m-%d-%H-%M-%S')
